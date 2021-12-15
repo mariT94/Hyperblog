@@ -8,3 +8,4 @@
 
 bug class
 
+bug class 2
